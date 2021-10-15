@@ -1,0 +1,10 @@
+C:\Users\stalk\Documents\API\Transact\TransactData\TransactData\bin\Debug\TransactData.exe.config
+C:\Users\stalk\Documents\API\Transact\TransactData\TransactData\bin\Debug\TransactData.exe
+C:\Users\stalk\Documents\API\Transact\TransactData\TransactData\bin\Debug\TransactData.pdb
+C:\Users\stalk\Documents\API\Transact\TransactData\TransactData\obj\Debug\TransactData.csproj.AssemblyReference.cache
+C:\Users\stalk\Documents\API\Transact\TransactData\TransactData\obj\Debug\TransactData.Form1.resources
+C:\Users\stalk\Documents\API\Transact\TransactData\TransactData\obj\Debug\TransactData.Properties.Resources.resources
+C:\Users\stalk\Documents\API\Transact\TransactData\TransactData\obj\Debug\TransactData.csproj.GenerateResource.cache
+C:\Users\stalk\Documents\API\Transact\TransactData\TransactData\obj\Debug\TransactData.csproj.CoreCompileInputs.cache
+C:\Users\stalk\Documents\API\Transact\TransactData\TransactData\obj\Debug\TransactData.exe
+C:\Users\stalk\Documents\API\Transact\TransactData\TransactData\obj\Debug\TransactData.pdb
