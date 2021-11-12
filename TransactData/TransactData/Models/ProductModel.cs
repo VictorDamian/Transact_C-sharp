@@ -11,17 +11,17 @@ namespace TransactData.Models
 {
     public class ProductModel:ConnectionSql
     {
-        private int id;
-        private string category;
-        private string mark;
-        private string description;
-        private float cost;
+        private int _id;
+        private string _category;
+        private string _mark;
+        private string _description;
+        private float _cost;
 
-        public int _Id { get => id; set => id = value; }
-        public string _Category { get => category; set => category = value; }
-        public string _Mark { get => mark; set => mark = value; }
-        public string _Description { get => description; set => description = value; }
-        public float _Cost { get => cost; set => cost = value; }
+        public int Id { get => _id; set => _id = value; }
+        public string Category { get => _category; set => _category = value; }
+        public string Mark { get => _mark; set => _mark = value; }
+        public string Description { get => _description; set => _description = value; }
+        public float Cost { get => _cost; set => _cost = value; }
 
         public void InsertBigData(IEnumerable<ProductModel> products)
         {
@@ -36,11 +36,11 @@ namespace TransactData.Models
             {
                 table.Rows.Add(new object[] 
                 {
-                    item._Id,
-                    item._Category,
-                    item._Mark,
-                    item._Description,
-                    item._Cost
+                    item._id,
+                    item._category,
+                    item._mark,
+                    item._description,
+                    item._cost
                 });
             }
             using (var conn = GetConnection())

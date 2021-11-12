@@ -8,3 +8,13 @@ C:\Users\stalk\Documents\API\Transact\TransactData\TransactData\obj\Debug\Transa
 C:\Users\stalk\Documents\API\Transact\TransactData\TransactData\obj\Debug\TransactData.csproj.CoreCompileInputs.cache
 C:\Users\stalk\Documents\API\Transact\TransactData\TransactData\obj\Debug\TransactData.exe
 C:\Users\stalk\Documents\API\Transact\TransactData\TransactData\obj\Debug\TransactData.pdb
+D:\proyectos\IM - github\C#.NET\Transact\TransactData\TransactData\bin\Debug\TransactData.exe.config
+D:\proyectos\IM - github\C#.NET\Transact\TransactData\TransactData\bin\Debug\TransactData.exe
+D:\proyectos\IM - github\C#.NET\Transact\TransactData\TransactData\bin\Debug\TransactData.pdb
+D:\proyectos\IM - github\C#.NET\Transact\TransactData\TransactData\obj\Debug\TransactData.csproj.AssemblyReference.cache
+D:\proyectos\IM - github\C#.NET\Transact\TransactData\TransactData\obj\Debug\TransactData.Form1.resources
+D:\proyectos\IM - github\C#.NET\Transact\TransactData\TransactData\obj\Debug\TransactData.Properties.Resources.resources
+D:\proyectos\IM - github\C#.NET\Transact\TransactData\TransactData\obj\Debug\TransactData.csproj.GenerateResource.cache
+D:\proyectos\IM - github\C#.NET\Transact\TransactData\TransactData\obj\Debug\TransactData.csproj.CoreCompileInputs.cache
+D:\proyectos\IM - github\C#.NET\Transact\TransactData\TransactData\obj\Debug\TransactData.exe
+D:\proyectos\IM - github\C#.NET\Transact\TransactData\TransactData\obj\Debug\TransactData.pdb

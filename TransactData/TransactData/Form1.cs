@@ -26,7 +26,6 @@ namespace TransactData
                 dataGridView1.CurrentCell = dataGridView1.Rows[dataGridView1.Rows.Count - 1].Cells[0];
             }
         }
-
         private void button1_Click(object sender, EventArgs e)
         {
             List<ProductModel> lst = new List<ProductModel>();
@@ -34,10 +33,10 @@ namespace TransactData
             {
                 var product = new ProductModel()
                 {
-                    _Category = Convert.ToString(data.Cells["CATEGORY"].Value),
-                    _Mark = Convert.ToString(data.Cells["MARK"].Value),
-                    _Description =Convert.ToString(data.Cells["DESCRIPTION"].Value),
-                    _Cost = (float)Convert.ToDouble(data.Cells["COST"].Value)
+                    Category = Convert.ToString(data.Cells["CATEGORY"].Value),
+                    Mark = Convert.ToString(data.Cells["MARK"].Value),
+                    Description =Convert.ToString(data.Cells["DESCRIPTION"].Value),
+                    Cost = (float)Convert.ToDouble(data.Cells["COST"].Value)
                 };
                 lst.Add(product);
             }
